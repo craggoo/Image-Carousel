@@ -1,0 +1,53 @@
+#images {
+	width:912px;
+	height:684px;
+	overflow:hidden;
+}
+
+#images > img {
+	display: none;
+}
+
+.move-left {
+	position: fixed;
+	top : 300px;
+	left: 75px;
+}
+
+.move-right {
+	position:fixed;
+	top: 300px;
+	right:675px;
+}
+
+.start {
+	position:fixed;
+	right: 1300px;
+}
+
+.pause {
+	position:fixed;
+	right: 1300px;
+}
+
+.resume {
+	position:fixed;
+	right: 1300px;
+}
+
+.location {
+	position: fixed;
+	right: 1025px;
+	width: 400px;
+}
+
+.shift {
+	position: fixed;
+	left: 190px;
+	bottom: 360px;
+}
+
+.generate {
+	position:fixed;
+	right:1140px;
+}

@@ -5,3 +5,5 @@ Info on how to start up a local http server: http://sweetme.at/2014/04/29/simple
 Most browsers by default block CORS requests so you need to download a plugin that will allows CORS requests to go through. If your browser is Chrome, there is a plugin in the Chrome Store that does just this.
 
 The app is setup to be best viewed with a 1920*1200 resolution. If you use any other resolution things will look out of place.
+
+Right now the program only adds .jpg files. You can add any image extension you want on line 66 of Carousel.js.
